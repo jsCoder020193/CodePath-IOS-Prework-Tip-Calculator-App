@@ -25,9 +25,17 @@ The following **additional** features are implemented:
 - [X] Create a tip slider that adjusts the tip percentage.
 - [X] Make a tip splitting feature
 - [ ] A settings page to change the currency (based on global location) or the default tip\
+- [X] UX Design created in Figma at https://www.figma.com/file/KKFJa6e8EZ3O13slt8DqBm/My-Play-Area?node-id=4%3A2
 
 ## Video Walkthrough
 
+### New Demo
+Here's a walkthrough of implemented user stories:
+
+![](app-gif-4.gif)
+![](app-gif-5.gif)
+
+### Old Demo
 Here's a walkthrough of implemented user stories:
 
 ![](app-gif.gif)
